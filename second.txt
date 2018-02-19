@@ -3,3 +3,5 @@ new data
 Modified - modified from eclipse
 
 conflict resolution-session 3
+
+modified in session 3
