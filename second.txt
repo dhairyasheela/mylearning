@@ -1,3 +1,5 @@
 Second GIT
 new data
 Modified - modified from eclipse
+
+conflict resolution-session 3
